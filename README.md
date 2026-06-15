@@ -1,9 +1,11 @@
-📖 About
+**📖 About**
+
 The 60 Days Claude Challenge is a structured learning journey designed to help participants master Claude AI through hands-on practice, real-world projects, prompt engineering, research workflows, automation, content creation, and AI-powered productivity.
 
 Whether you're a student, developer, creator, entrepreneur, or working professional, this challenge will help you build practical AI skills that can be applied immediately.
 
-🎯 Objectives
+**🎯 Objectives**
+
 By the end of the challenge, participants will:
 
 Master Claude AI fundamentals
@@ -14,7 +16,7 @@ Increase productivity using AI
 Create real-world AI projects
 Develop an AI-first mindset
 
-📅 Challenge Roadmap
+**📅 Challenge Roadmap**
 
 # 🚀 Week AI Mastery Roadmap
 
